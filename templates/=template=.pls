@@ -4,7 +4,6 @@ is
  * %FFILE%
  * Copyright (C) %YEAR% %USER% <%MAIL%>
  *
- * Distributed under terms of the %LICENSE% license.
  */
 
   procedure main (pv_param1 varchar2(50)

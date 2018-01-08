@@ -19,7 +19,7 @@ For example, using Pathogen__:
 
 2. ``cd ~/.vim/bundle``
 
-3. ``git clone git://github.com/aperezdc/vim-template.git``
+3. ``git clone git://github.com/libaoxi/vim-template.git``
 
 __ https://github.com/tpope/vim-pathogen
 
